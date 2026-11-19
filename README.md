@@ -1,7 +1,7 @@
 # Teeth structure segmentation in panoramic dental X-rays
 
 Final-year BTech project, Computer Science and Medical Engineering, Sri Ramachandra Institute of Higher Education and Research, Chennai (2024).
-Devaharish Srikannan and Bhuvann V, supervised by Mrs Rhevathi M.
+Devaharish Srikannan supervised by Mrs Rhevathi M.
 
 We trained a U-Net in PyTorch to segment teeth in panoramic dental X-rays, with simple image pre-processing before training.
 
